@@ -25,4 +25,5 @@ int[] mylist = new int[] {1,3,5,7,9,30};
 
 
 Console.WriteLine(BinnarySearch(mylist,1));
+Console.WriteLine(BinnarySearch(mylist,2));
 Console.WriteLine(BinnarySearch(new int[] {4,6,7,10,32,40,99},99));
