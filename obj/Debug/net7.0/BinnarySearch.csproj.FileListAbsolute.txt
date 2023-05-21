@@ -1,0 +1,15 @@
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/BinnarySearch.csproj.AssemblyReference.cache
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/BinnarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/BinnarySearch.AssemblyInfoInputs.cache
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/BinnarySearch.AssemblyInfo.cs
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/BinnarySearch.csproj.CoreCompileInputs.cache
+/home/wrong/Документы/AspPrj/BinnarySearch/bin/Debug/net7.0/BinnarySearch
+/home/wrong/Документы/AspPrj/BinnarySearch/bin/Debug/net7.0/BinnarySearch.deps.json
+/home/wrong/Документы/AspPrj/BinnarySearch/bin/Debug/net7.0/BinnarySearch.runtimeconfig.json
+/home/wrong/Документы/AspPrj/BinnarySearch/bin/Debug/net7.0/BinnarySearch.dll
+/home/wrong/Документы/AspPrj/BinnarySearch/bin/Debug/net7.0/BinnarySearch.pdb
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/BinnarySearch.dll
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/refint/BinnarySearch.dll
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/BinnarySearch.pdb
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/BinnarySearch.genruntimeconfig.cache
+/home/wrong/Документы/AspPrj/BinnarySearch/obj/Debug/net7.0/ref/BinnarySearch.dll
